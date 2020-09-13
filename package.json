@@ -1,0 +1,36 @@
+{
+    "categories": [
+        "Extension Packs"
+    ],
+    "description": "",
+    "displayName": "dannyBaseExtensionPack",
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "extensionPack": [
+        "esbenp.prettier-vscode",
+        "dbaeumer.vscode-eslint",
+        "ms-azuretools.vscode-docker",
+        "hashicorp.terraform",
+        "orta.vscode-jest",
+        "eamodio.gitlens",
+        "ryanluker.vscode-coverage-gutters",
+        "atlassian.atlascode",
+        "zainchen.json",
+        "joelday.docthis",
+        "ms-kubernetes-tools.vscode-kubernetes-tools",
+        "ms-vsliveshare.vsliveshare",
+        "xyz.local-history",
+        "mongodb.mongodb-vscode",
+        "ms-vscode-remote.remote-ssh",
+        "ms-vscode-remote.remote-ssh-edit",
+        "richie5um2.vscode-sort-json",
+        "kingsimba.tsdoc-comment",
+        "knisterpeter.vscode-commitizen",
+        "redhat.vscode-yaml",
+        "jbockle.jbockle-format-files",
+        "gitlab.gitlab-workflow"
+    ],
+    "name": "dannybaseextensionpack",
+    "version": "0.0.1"
+}
