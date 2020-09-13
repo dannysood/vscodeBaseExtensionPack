@@ -2,8 +2,9 @@
     "categories": [
         "Extension Packs"
     ],
+    "publisher": "dannysood",
     "description": "",
-    "displayName": "dannyBaseExtensionPack",
+    "displayName": "DannySood's VscodeBaseExtensionPack",
     "engines": {
         "vscode": "^1.49.0"
     },
@@ -31,6 +32,6 @@
         "jbockle.jbockle-format-files",
         "gitlab.gitlab-workflow"
     ],
-    "name": "dannybaseextensionpack",
+    "name": "vscodebaseextensionpack",
     "version": "0.0.1"
 }
